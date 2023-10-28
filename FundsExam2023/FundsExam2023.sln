@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundsExam2023", "FundsExam2023.csproj", "{BA752635-09A9-4B4A-A824-2AE0924B47E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamTask2", "..\ExamTask2\ExamTask2.csproj", "{8C6D1B11-A076-4103-B6C2-E900263C5ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "..\Cards\Cards.csproj", "{5D3A9829-2C10-4885-A598-823887B2B546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA752635-09A9-4B4A-A824-2AE0924B47E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA752635-09A9-4B4A-A824-2AE0924B47E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA752635-09A9-4B4A-A824-2AE0924B47E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA752635-09A9-4B4A-A824-2AE0924B47E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6D1B11-A076-4103-B6C2-E900263C5ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6D1B11-A076-4103-B6C2-E900263C5ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6D1B11-A076-4103-B6C2-E900263C5ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6D1B11-A076-4103-B6C2-E900263C5ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3A9829-2C10-4885-A598-823887B2B546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3A9829-2C10-4885-A598-823887B2B546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3A9829-2C10-4885-A598-823887B2B546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3A9829-2C10-4885-A598-823887B2B546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B40F4588-1151-4436-844B-796EE8C869C1}
+	EndGlobalSection
+EndGlobal
